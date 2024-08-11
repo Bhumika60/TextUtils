@@ -33,3 +33,19 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Bhumika60/Textutils.git
+   
+2. Navigate to the project directory:
+
+   ```bash
+   cd Textutils
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm start
+
+
+   
